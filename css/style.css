@@ -287,9 +287,7 @@ width: calc((100% - 48px) / 3);
 }
 
 .portfolio-caption{
-    margin-top: 32px;
     margin-bottom: 8px;
-    margin-left: 16px;
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
@@ -298,7 +296,6 @@ width: calc((100% - 48px) / 3);
 
 }
 .portfolio-text{
-    margin-left: 16px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
